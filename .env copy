@@ -1,0 +1,8 @@
+APP_URL=http://localhost:7777
+MODE=DEV
+JWT_SECRET=fbg83h5vinv93qvnv
+BSC_RPC_URL=https://bsc-dataseed.binance.org/
+ETH_WS=http://127.0.0.1:8545
+ETH_HTTP=ws://127.0.0.1:8546
+BSC_WS=wss://bsc-ws-node.nariox.org:443
+BSC_HTTP=https://bsc-dataseed1.binance.org/
